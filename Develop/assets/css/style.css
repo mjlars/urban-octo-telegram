@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 1rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -17,7 +17,9 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    /* font-size: 48px; */
+    /* Made 'logo' font responsive */
+    font-size: 3rem;
 }
 
 .header h1 .seo {
